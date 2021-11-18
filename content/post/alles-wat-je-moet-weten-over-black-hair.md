@@ -53,15 +53,11 @@ Hedendaags worden dreadlocks snel geassocieerd met de Rastafari cultuur, vandaar
 
 Hoe maak je zelf dreadlocks, in a nutshell:
 
-1\. Maak meerdere secties van plukken haar en zet deze vast, zodat je je handen vrij hebt
-
-2\. Kam de plukken één voor één
-
-3\. Toupeer elke pluk (door met een kam van beneden naar boven te kammen)
-
-4\. Draai de plukken rond en zet ze vast
-
-5\. Ongeveer 3 maanden later heb je je locks!
+1. Maak meerdere secties van plukken haar en zet deze vast, zodat je je handen vrij hebt
+2. Kam de plukken één voor één
+3. Toupeer elke pluk (door met een kam van beneden naar boven te kammen)
+4. Draai de plukken rond en zet ze vast
+5. Ongeveer 3 maanden later heb je je locks!
 
 Voor het verzorgen van je dreads zijn er verschillende merken die hiervoor de juiste producten aanbieden, een goed voorbeeld hiervan is het merk: Jamaican Mango & Lime. Verder is het verstandig om te slapen met een bonnet of panty op je hoofd, dit voorkomt het pluizen van haar.
 
