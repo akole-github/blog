@@ -1,6 +1,6 @@
 ---
 title: Alles wat je moet weten over (black) hair
-date: 2017-04-30
+date: 2021-11-22T00:00:00+01:00
 hero: "/images/afbeelding1.jpeg"
 excerpt: ''
 timeToRead: 3
