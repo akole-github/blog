@@ -1,157 +1,102 @@
 ---
-title: Why we built a company before building a product and why it worked
+title: Alles wat je moet weten over (black) hair
 date: 2017-04-30
-hero: /images/hero-6.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+hero: "/images/afbeelding1.jpeg"
+excerpt: ''
 timeToRead: 3
-authors:
-  - Thiago Costa
+authors: []
 
 ---
+Alles wat je moet weten over (black) hair
 
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+**“I like my baby heir with baby hair and afros” de welbekende uitspraak van het nummer Formation van zangeres Beyonce. Haar, coupe, wieri… hoe je het ook wil noemen, het bepaalt 50% van onze uiterlijke verschijning. Het is dus niet geheel onbelangrijk om daar aandacht aan te besteden. In deze blog duiken we de geschiedenis in van onder anderen black hair en geven wij jullie handige tips en adviezen.**
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+Auteur: Mirella Agyemann
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+Datum: 1 november 2021
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+**Afro:**
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+De krulvormigheid van kroeshaar ontstaan door de haarzakjes die ellipsvormig groeien. Door deze vorm gedraagt het haar zich als een spiraal. De spiraalstructuur zorgt ervoor dat het krimpt (shrinkage). Gekruld haar komt in allerlei vormen en maten, deze hebben ook allemaal een eigen naam ofwel, een eigen code. Kroeshaar valt onder 4A, B of C.
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+Even terug in de tijd… Afro-Amerikaans haar heeft veel opmerlijke periodes doorgemaakt. De slavernij en slavenhandel speelde hier een grote rol in. Dit weegt de trots die Afro-Amerikanen in hun haar koesteren. "Alles wat ik wist over de Amerikaanse geschiedenis leerde ik door naar het haar van zwarte mensen te kijken. Het is de perfecte metafoor voor het Afrikaanse experiment hier in de VS” – Jamaica Kincaid.
 
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
+![Afbeelding met tekst
 
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
+Automatisch gegenereerde beschrijving](file:////Users/Kwame/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png =229x143)In de Verenigde Staten inspireerden de successen van de burgerrechtenbeweging en de Black power bewegingen van de jaren ‘60 en ‘70 Afro-Amerikanen om hun politieke standaarden uit te drukken door meer traditioneel Afrikaanse stijlen aan te nemen. Het Afro-kapsel is ontwikkeld als een bevestiging van het zwarte Afrikaanse erfgoed, uitgedrukt door de uitdrukking ‘Black is Beatiful’. Angela Davis droeg haar Afro als een politiek statement en begon een beweging richting natuurlijk haar. Deze beweging beïnvloedde een generatie, waaronder beroemdheden als Diana Ross, Michael Jackson en Al Green.
 
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
+Zelfs vandaag de dag voelen steeds meer mannen en (met name) vrouwen zich comfortabel bij het dragen van hun ‘eigen’ haar en dit doen zij met trots en liefde _#welovetoseeit._
 
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+![Afbeelding met persoon
 
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
+Automatisch gegenereerde beschrijving](file:////Users/Kwame/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg =122x163)Afro hair is dus de textuur van het haar van mensen uit de Afrikaanse diaspora. Er wordt veel aandacht besteed aan de verzorging van het haar. Een ‘simpele’ verzorgsessie kan al gauw bestaan uit wassen, oliën, kammen, vlechten en draaien, plus het toevoegen van accessoires (indien gewenst). Voor het wassen met shampoo wordt er in landen in West- en Centraal-Afrika vaak black soap gebruikt. Plantaardige oliën worden gebruikt voor het oliën van de hoofdhuid, denk aan black castor oil, argan olie, kokosolie enzovoorts. Shea boter wordt traditioneel gebruikt om het haar te hydrateren en te kleden (tip: shea boter werkt ook uitstekend voor je huid!). In de randstad zijn er veel winkels die black hair cosmetica producten verkopen. Voor mensen buiten de randstad is er altijd nog de mogelijkheid om de producten online te kopen.
 
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
+**Braids:**
 
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
+Vlechten, een van de meest veelzijdige haarstijlen _ever._ Het vlechten van haar kan op wel honderd verschillende manieren. De trends van het moment zijn: knotless braids, box braids, feed-in braids, braided ponytail en crochet braids. Naast het feit dat je er veel kanten mee op kan kent het ook een grote geschiedenis. Deze symbolische haarstijl staat namelijk ook als een teken van sociale status, etniciteit, religie, leeftijd of welzijn. In verschillende Afrikaanse stammen was gevlochten haar een unieke manier om de groepen mee te identificeren.
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+![Afbeelding met persoon, vrouw, kleding, mobiele telefoon
 
-# This is a primary heading
+Automatisch gegenereerde beschrijving](file:////Users/Kwame/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg =126x174)Conrows (een traditionele stijl van vlechten waarbij het haar heel dicht bij de hoofdhuid wordt gevlochten) hebben in het bijzonder ook nog een historie binnen de zwarte gemeenschap. Slaven vlochten vroeger ontsnappingsroutes in hun haar. Dit was een manier om onderling met elkaar te communiceren zonder dat de slavenhandelaren hiervan op de hoogte waren. Super slim dus! Naast dat conrows er bijzonder uit zien heeft het ook een zeer praktische functie. Conrows dienen vaak als gemak bij het dragen van een pruik.
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+Ieder kapsel brengt voor- en nadelen met zich mee. Met braids hoef je simpelweg weinig aan je haar te doen om ervoor te zorgen dat het goed zit. Je bent dus altijd ‘good to go’! Een nadeel is wel dat het de eerste 1-4 dagen nogal onwennig kan aanvoelen, omdat de vlechten erg strak zitten en dat het wellicht kan jeuken op je hoofdhuid. Hier zijn gelukkig wel verschillende oplossingen voor, zoals een itching spray/serum.
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+**Dreadlocks:**
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+De eerste vormen van dreadlocks kregen al de aandacht in het oude Egypte. Uit onderzoek is gebleken dat zelfs mummies en artefacten dreadlocks droegen, deze overblijfsels zijn echter uitgewist. Naast de Egyptenaren was deze haarstijl ook zeker bekend bij de Vikingen, Grieken en bij verschillende personen uit de bijbel.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+Hedendaags worden dreadlocks snel geassocieerd met de Rastafari cultuur, vandaar de benaming ‘rasta’. Op het eiland Jamaica werd de naam dreadlocks voor het eerst gebruikt, omdat de Rastafari beweging daar is ontstaan. Bob Marley is een van ’s werelds bekendste artiesten die dreadlocks droeg. Dreadlocks ontstaan door je haar een tijd niet te kammen, een lock is eigenlijk gewoon een bundel van vervilt haar. Het vraagt veel tijd, geduld en discipline om dit dus ook goed te onderhouden. Er zijn genoeg kappers die hierin gespecialiseerd zijn, mocht je benieuwd zijn naar hoe je dit zelf kan doen…
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+![Afbeelding met persoon, dragen, hoed, haar
 
-## This is a secondary heading
+Automatisch gegenereerde beschrijving](file:////Users/Kwame/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg =163x203)
 
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
+Hoe maak je zelf dreadlocks, in a nutshell:
 
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
+1\. Maak meerdere secties van plukken haar en zet deze vast, zodat je je handen vrij hebt
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+2\. Kam de plukken één voor één
 
----
+3\. Toupeer elke pluk (door met een kam van beneden naar boven te kammen)
 
-Hyphens
+4\. Draai de plukken rond en zet ze vast
 
----
+5\. Ongeveer 3 maanden later heb je je locks!
 
-Asterisks
+Voor het verzorgen van je dreads zijn er verschillende merken die hiervoor de juiste producten aanbieden, een goed voorbeeld hiervan is het merk: Jamaican Mango & Lime. Verder is het verstandig om te slapen met een bonnet of panty op je hoofd, dit voorkomt het pluizen van haar.
 
----
+![Afbeelding met person, persoon, binnen
 
-Underscores
+Automatisch gegenereerde beschrijving](file:////Users/Kwame/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.jpg =132x151)**Fade haircut:**
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+In straattaal noemen we dit ook wel een ‘overloop’. Dit is een stijl waarbij het haar letterlijk verloopt (faded) van een vol naar een leeg haargebied. Het is een kunst om dit zo netjes mogelijk te voeren. Er zijn verschillende variaties op een fade cut. Dit hangt allemaal af van de lengte van het haar en vanaf welke hoogte de _fade_ als het ware mag beginnen. Ook dit is geen gevalletje ‘appeltje, eitje’ om goed uit te voeren. Het hangt allemaal samen met de juiste tondeuse gebruiken in combinatie met de juiste mesjes.
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+Voor de perfecte fade kan je het beste terecht bij een barbierzaak. Maar, oefening baart kunst, je kan het makkelijk zelf leren. Voor een goede overloop, in combinatie met rechte contouren ben je vaak al niet meer dan een tientje kwijt.
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+**Steil haar:**
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Dit betekent letterlijk haar wat loodrecht naar beneden hangt. Er zit dus een verschil tussen stijl haar en steil haar! ‘Stijl’ gaat over de manier waarop, dus het stijlen (stylen) van haar.
 
-Combined emphasis with **asterisks and _underscores_**.
+_(Valt echt bijna niks over te vinden over de ‘geschiedenis’ online… ik zou persoonlijk dit hoofdstuk skippen en je alleen focussen op black hair. Misschien dat je in een ander hoofdstuk wat kan vertellen over bijv. het steilen van haar met een steiltang of iets dergelijks. Laat maar weten)_
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+**Bronnen:**
 
-1. First ordered list item
-2. Another item
-   ⋅⋅\* Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
-4. And another item.
+[https://www.knottyboy.com/learn/dreadlock-history/](https://www.knottyboy.com/learn/dreadlock-history/ "https://www.knottyboy.com/learn/dreadlock-history/")
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+[https://www.menshairstylestoday.com/mens-fade-haircuts/](https://www.menshairstylestoday.com/mens-fade-haircuts/ "https://www.menshairstylestoday.com/mens-fade-haircuts/")
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+[https://www.byrdie.com/history-of-braids](https://www.byrdie.com/history-of-braids "https://www.byrdie.com/history-of-braids")
 
-- Unordered list can use asterisks
+[http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/](http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/ "http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/")
 
-* Or minuses
+[https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken](https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken "https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken")
 
-- Or pluses
+[https://en.wikipedia.org/wiki/Afro-textured_hair](https://en.wikipedia.org/wiki/Afro-textured_hair "https://en.wikipedia.org/wiki/Afro-textured_hair")
+
+[https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women](https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women "https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women")
+
+[https://nl.pinterest.com/pin/610378555727411957/](https://nl.pinterest.com/pin/610378555727411957/ "https://nl.pinterest.com/pin/610378555727411957/")
+
+[https://nl.pinterest.com/pin/451063718934528811/](https://nl.pinterest.com/pin/451063718934528811/ "https://nl.pinterest.com/pin/451063718934528811/")
+
+[https://nl.pinterest.com/pin/7318418136309233/](https://nl.pinterest.com/pin/7318418136309233/ "https://nl.pinterest.com/pin/7318418136309233/")
