@@ -77,22 +77,22 @@ _(Valt echt bijna niks over te vinden over de ‘geschiedenis’ online… ik zo
 
 **Bronnen:**
 
-[https://www.knottyboy.com/learn/dreadlock-history/](https://www.knottyboy.com/learn/dreadlock-history/ "https://www.knottyboy.com/learn/dreadlock-history/")
+###### [_https://www.knottyboy.com/learn/dreadlock-history/_](https://www.knottyboy.com/learn/dreadlock-history/ "https://www.knottyboy.com/learn/dreadlock-history/")
 
-[https://www.menshairstylestoday.com/mens-fade-haircuts/](https://www.menshairstylestoday.com/mens-fade-haircuts/ "https://www.menshairstylestoday.com/mens-fade-haircuts/")
+###### [_https://www.menshairstylestoday.com/mens-fade-haircuts/_](https://www.menshairstylestoday.com/mens-fade-haircuts/ "https://www.menshairstylestoday.com/mens-fade-haircuts/")
 
-[https://www.byrdie.com/history-of-braids](https://www.byrdie.com/history-of-braids "https://www.byrdie.com/history-of-braids")
+###### [_https://www.byrdie.com/history-of-braids_](https://www.byrdie.com/history-of-braids "https://www.byrdie.com/history-of-braids")
 
-[http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/](http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/ "http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/")
+###### [_http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/_](http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/ "http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/")
 
-[https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken](https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken "https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken")
+###### [_https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken_](https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken "https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken")
 
-[https://en.wikipedia.org/wiki/Afro-textured_hair](https://en.wikipedia.org/wiki/Afro-textured_hair "https://en.wikipedia.org/wiki/Afro-textured_hair")
+###### [_https://en.wikipedia.org/wiki/Afro-textured_hair_](https://en.wikipedia.org/wiki/Afro-textured_hair "https://en.wikipedia.org/wiki/Afro-textured_hair")
 
-[https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women](https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women "https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women")
+###### [_https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women_](https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women "https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women")
 
-[https://nl.pinterest.com/pin/610378555727411957/](https://nl.pinterest.com/pin/610378555727411957/ "https://nl.pinterest.com/pin/610378555727411957/")
+###### [_https://nl.pinterest.com/pin/610378555727411957/_](https://nl.pinterest.com/pin/610378555727411957/ "https://nl.pinterest.com/pin/610378555727411957/")
 
-[https://nl.pinterest.com/pin/451063718934528811/](https://nl.pinterest.com/pin/451063718934528811/ "https://nl.pinterest.com/pin/451063718934528811/")
+###### [_https://nl.pinterest.com/pin/451063718934528811/_](https://nl.pinterest.com/pin/451063718934528811/ "https://nl.pinterest.com/pin/451063718934528811/")
 
-[https://nl.pinterest.com/pin/7318418136309233/](https://nl.pinterest.com/pin/7318418136309233/ "https://nl.pinterest.com/pin/7318418136309233/")
+###### [_https://nl.pinterest.com/pin/7318418136309233/_](https://nl.pinterest.com/pin/7318418136309233/ "https://nl.pinterest.com/pin/7318418136309233/")
