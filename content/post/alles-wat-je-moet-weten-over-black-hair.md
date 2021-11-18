@@ -39,6 +39,8 @@ Vlechten, een van de meest veelzijdige haarstijlen _ever._ Het vlechten van haar
 Conrows (een traditionele stijl van vlechten waarbij het haar heel dicht bij de hoofdhuid wordt gevlochten) hebben in het bijzonder ook nog een historie binnen de zwarte gemeenschap. Slaven vlochten vroeger ontsnappingsroutes in hun haar. Dit was een manier om onderling met elkaar te communiceren zonder dat de slavenhandelaren hiervan op de hoogte waren. Super slim dus! Naast dat conrows er bijzonder uit zien heeft het ook een zeer praktische functie. Conrows dienen vaak als gemak bij het dragen van een pruik.
 
 ![](/images/rows.png)
+
+
 Ieder kapsel brengt voor- en nadelen met zich mee. Met braids hoef je simpelweg weinig aan je haar te doen om ervoor te zorgen dat het goed zit. Je bent dus altijd ‘good to go’! Een nadeel is wel dat het de eerste 1-4 dagen nogal onwennig kan aanvoelen, omdat de vlechten erg strak zitten en dat het wellicht kan jeuken op je hoofdhuid. Hier zijn gelukkig wel verschillende oplossingen voor, zoals een itching spray/serum.
 
 **Dreadlocks:**
