@@ -1,5 +1,5 @@
 ---
-timeToRead: 3
+timeToRead: 1
 authors: []
 title: Alles wat je moet weten over (black) hair
 excerpt: ''
