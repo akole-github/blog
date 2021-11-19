@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "akole-develop-5b1ea"
+  },
+  "targets": {
+    "akole-develop-5b1ea": {
+      "hosting": {
+        "blog": [
+          "akole-blog"
+        ]
+      }
+    }
+  }
+}
