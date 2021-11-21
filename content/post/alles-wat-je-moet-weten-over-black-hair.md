@@ -5,6 +5,7 @@ title: Alles wat je moet weten over (black) hair
 excerpt: ''
 date: 2021-11-18T00:00:00.000+01:00
 hero: "/images/afbeelding1.jpeg"
+draft: true
 
 ---
 Alles wat je moet weten over (black) hair
