@@ -1,3 +1,6 @@
 public
 resources/_gen
 .DS_Store
+
+# Local Netlify folder
+.netlify
