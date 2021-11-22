@@ -27,8 +27,6 @@ In de Verenigde Staten inspireerden de successen van de burgerrechtenbeweging en
 
 Zelfs vandaag de dag voelen steeds meer mannen en (met name) vrouwen zich comfortabel bij het dragen van hun ‘eigen’ haar en dit doen zij met trots en liefde _#welovetoseeit._
 
-![](/images/afbeelding1.jpeg)
-
 Afro hair is dus de textuur van het haar van mensen uit de Afrikaanse diaspora. Er wordt veel aandacht besteed aan de verzorging van het haar. Een ‘simpele’ verzorgsessie kan al gauw bestaan uit wassen, oliën, kammen, vlechten en draaien, plus het toevoegen van accessoires (indien gewenst). Voor het wassen met shampoo wordt er in landen in West- en Centraal-Afrika vaak black soap gebruikt. Plantaardige oliën worden gebruikt voor het oliën van de hoofdhuid, denk aan black castor oil, argan olie, kokosolie enzovoorts. Shea boter wordt traditioneel gebruikt om het haar te hydrateren en te kleden (tip: shea boter werkt ook uitstekend voor je huid!). In de randstad zijn er veel winkels die black hair cosmetica producten verkopen. Voor mensen buiten de randstad is er altijd nog de mogelijkheid om de producten online te kopen.
 
 **Braids:**
