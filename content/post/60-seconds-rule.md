@@ -4,15 +4,11 @@ authors: []
 title: 60 seconds rule!
 excerpt: "“Are you really washing your face?”"
 date: 2022-01-09T23:00:00+00:00
-hero: ''
+hero: "/images/skincare.jpg"
 draft: true
 
 ---
 # The 60 second rule!
-
-![Afbeelding met tekst
-
-Automatisch gegenereerde beschrijving](https://lh4.googleusercontent.com/vfoIFk4QS2a60sx8iyPDX0hh1CrG4wqbdcY1ZaU-UrTU0l_KimzI6ETQOB34t310kZxxSN6XCgubfirLup9EhWZWCXUmNp0wL_3fvc7Dthpln1_R4VxmV2-TF-W3zrgvKMyBxFET =324x182)
 
 Als beauty en gezondheid nerd heb ik mij een aantal jaren verdiept in wat je nodig hebt voor een egale, gezonde en strakke huid. En hoe je ongewenste acne en onzuiverheden tegen gaat. De mensen met wie ik gesprekken voer over huidverzorging hebben vaak 1 ding in gemeen, namelijk dat ze hun gezicht niet écht wassen.
 
@@ -20,12 +16,12 @@ Als beauty en gezondheid nerd heb ik mij een aantal jaren verdiept in wat je nod
 
 #### **Gezicht wassen**
 
-Gemiddeld besteed een persoon 15 seconden aan het wassen van zijn of haar gezicht. Dit is niet voldoende. Je hebt een minimum van 60 seconden nodig hebt om je huid effectief te reinigen. Was eerst je handen voordat je je gezicht aanraakt.   
+Gemiddeld besteed een persoon 15 seconden aan het wassen van zijn of haar gezicht. Dit is niet voldoende. Je hebt een minimum van 60 seconden nodig hebt om je huid effectief te reinigen. Was eerst je handen voordat je je gezicht aanraakt.  
 Je huid heeft het nodig om 1-2 keer per dag voor minimaal 60 seconden gewassen te worden met je vingers. Hoe langer hoe beter. Door dit toe te passen geef jij je huid de kans om het product goed te absorberen. Verder krijgen de ingrediënten in het product de kans om hun werk te doen. Je zal binnen enkele dagen het verschil in je huid en gezicht al zien en voelen. Het is echt belangrijk om je vingers te gebruiken voor het wassen, omdat andere materialen vaak te ruw voor je huid zijn en beschadigingen kunnen aanbrengen.
 
 #### **De voordelen**
 
-The 60 second rule helpt opkomende en bestaande acne sneller genezen. Wanneer je last hebt van littekens, hyperpigmentatie of donkere vlekken door acne, zal dit aanzienlijk verminderen en in veel gevallen volledig verdwijnen.   
+The 60 second rule helpt opkomende en bestaande acne sneller genezen. Wanneer je last hebt van littekens, hyperpigmentatie of donkere vlekken door acne, zal dit aanzienlijk verminderen en in veel gevallen volledig verdwijnen.  
 Doordat je tijd neemt om je gezicht te wassen, wordt je huid opgewarmd door de bewegingen van je vingers. Hierdoor komt bloedcirculatie op gang. Dit vertraagt huidveroudering en vecht tegen (opkomende) hardnekkige acne. Slechte bloedcirculatie in je gezicht kan zorgen voor een grauwe, schilferige of bleke huid dat te veel vocht vast houdt. Als je op dagelijkse basis je huid met zorg wast, zal je huidtextuur veranderen. Het wordt zachter, gezonder, steviger, soepeler en egaler.
 
 #### **Moisturizen en hydrateren**
@@ -36,8 +32,7 @@ Hieronder nog een cruciale stap die je moet toevoegen of aanpassen om de belangr
 2. Dep je gezicht voorzichtig af of laat het luchtdrogen en wacht een uur. Ga niet op deze manier naar buiten omdat je huid extra kwetsbaar is voor weersinvloeden.
 3. Onderzoek je gezicht grondig en inspecteer wat je opvalt aan je huid.
 
-  
-![THE 7 SKIN TYPES AND HOW TO IDENTIFY YOURS.](https://lh6.googleusercontent.com/Ge8aVS5Elpt3J4WunJ3g7UzmV2tnBqwAjjnn0a5zMlyGuCn2sSbgcWoOtl9UBU5_SF6BddEgGQORCEuudGEebaCKdt5AYuciX2QzgfDgvj_y1hob0ZibDE_3687vxBdAaffP5hpP =437x221)
+![](/images/skin-types-jpg.webp)
 
 Wat voor moisturiser heb je nodig voor je huid type?
 
