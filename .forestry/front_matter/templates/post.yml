@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/60-seconds-rule.md
 - content/post/alles-wat-je-moet-weten-over-black-hair.md
