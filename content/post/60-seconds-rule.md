@@ -4,7 +4,7 @@ authors: []
 title: 60 seconds rule!
 excerpt: "“Are you really washing your face?”"
 date: 2022-01-09T23:00:00+00:00
-hero: "/images/skincare.jpg"
+hero: "/images/skincare.png"
 draft: true
 
 ---
