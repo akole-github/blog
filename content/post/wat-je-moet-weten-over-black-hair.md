@@ -1,13 +1,13 @@
 ---
 timeToRead: 1
 authors: []
-title: Alles wat je moet weten over (black) hair
+title: Wat je moet weten over black hair
 excerpt: v
 date: 2021-11-18T00:00:00.000+01:00
 hero: "/images/afbeelding1.jpeg"
 
 ---
-Alles wat je moet weten over (black) hair
+Wat je moet weten over black hair
 
 **“I like my baby heir with baby hair and afros” de welbekende uitspraak van het nummer Formation van zangeres Beyonce. Haar, coupe, wieri… hoe je het ook wil noemen, het bepaalt 50% van onze uiterlijke verschijning. Het is dus niet geheel onbelangrijk om daar aandacht aan te besteden. In deze blog duiken we de geschiedenis in van onder anderen black hair en geven wij jullie handige tips en adviezen.**
 
