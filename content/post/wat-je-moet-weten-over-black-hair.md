@@ -1,5 +1,5 @@
 ---
-timeToRead: 1
+timeToRead: 0
 authors: []
 title: Wat je moet weten over black hair
 excerpt: v
@@ -7,19 +7,15 @@ date: 2021-11-18T00:00:00.000+01:00
 hero: "/images/afbeelding1.jpeg"
 
 ---
-Wat je moet weten over black hair
+# Wat je moet weten over black hair
 
-**“I like my baby heir with baby hair and afros” de welbekende uitspraak van het nummer Formation van zangeres Beyonce. Haar, coupe, wieri… hoe je het ook wil noemen, het bepaalt 50% van onze uiterlijke verschijning. Het is dus niet geheel onbelangrijk om daar aandacht aan te besteden. In deze blog duiken we de geschiedenis in van onder anderen black hair en geven wij jullie handige tips en adviezen.**
-
-Auteur: Mirella Agyemann
-
-Datum: 1 november 2021
+**Het is geen geheim dat je kapsel 50% bepaalt van je uiterlijke verschijning. Er zijn in principe vier categorieën van haartypen, maar daar onder vallen ontzettend veel varianten op haar. Het is dus niet geheel onbelangrijk om daar aandacht aan te besteden. In deze blog duiken wij de geschiedenis in van onder anderen black hair en geven wij jullie handige tips en adviezen.**
 
 **Afro:**
 
-De krulvormigheid van kroeshaar ontstaan door de haarzakjes die ellipsvormig groeien. Door deze vorm gedraagt het haar zich als een spiraal. De spiraalstructuur zorgt ervoor dat het krimpt (shrinkage). Gekruld haar komt in allerlei vormen en maten, deze hebben ook allemaal een eigen naam ofwel, een eigen code. Kroeshaar valt onder 4A, B of C.
+De vorm van de krul bij kroeshaar ontstaat door de haarzakjes die ellipsvormig groeien. Door deze vorm gedraagt het haar zich als een spiraal. De spiraalstructuur zorgt ervoor dat het krimpt (shrinkage). Gekruld haar komt in allerlei vormen en maten, deze hebben ook allemaal een eigen naam ofwel, een eigen code. Kroeshaar valt onder 4A, B of C.
 
-Even terug in de tijd… Afro-Amerikaans haar heeft veel opmerlijke periodes doorgemaakt. De slavernij en slavenhandel speelde hier een grote rol in. Dit weegt de trots die Afro-Amerikanen in hun haar koesteren. "Alles wat ik wist over de Amerikaanse geschiedenis leerde ik door naar het haar van zwarte mensen te kijken. Het is de perfecte metafoor voor het Afrikaanse experiment hier in de VS” – Jamaica Kincaid.
+Even terug in de tijd… Afro-Amerikaans haar heeft veel opmerkelijke periodes doorgemaakt. De slavernij en slavenhandel speelde hier een grote rol in. Dit weegt de trots die Afro-Amerikanen in hun haar koesteren. &quot;Alles wat ik wist over de Amerikaanse geschiedenis leerde ik door naar het haar van zwarte mensen te kijken. Het is de perfecte metafoor voor het Afrikaanse experiment hier in de VS” –Jamaica Kincaid.
 
 ![](/images/black-youtube.png)
 
@@ -65,24 +61,4 @@ In straattaal noemen we dit ook wel een ‘overloop’. Dit is een stijl waarbij
 
 Voor de perfecte fade kan je het beste terecht bij een barbierzaak. Maar, oefening baart kunst, je kan het makkelijk zelf leren. Voor een goede overloop, in combinatie met rechte contouren ben je vaak al niet meer dan een tientje kwijt.
 
-**Bronnen:**
-
-###### [_https://www.knottyboy.com/learn/dreadlock-history/_](https://www.knottyboy.com/learn/dreadlock-history/ "https://www.knottyboy.com/learn/dreadlock-history/")
-
-###### [_https://www.menshairstylestoday.com/mens-fade-haircuts/_](https://www.menshairstylestoday.com/mens-fade-haircuts/ "https://www.menshairstylestoday.com/mens-fade-haircuts/")
-
-###### [_https://www.byrdie.com/history-of-braids_](https://www.byrdie.com/history-of-braids "https://www.byrdie.com/history-of-braids")
-
-###### [_http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/_](http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/ "http://ikvrouwvanjou.nl/2014/09/dreadlocks-leuk-vies/")
-
-###### [_https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken_](https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken "https://www.vice.com/nl/article/vbjqnj/zijn-dreadlocks-nou-echt-zo-goor-als-we-allemaal-denken")
-
-###### [_https://en.wikipedia.org/wiki/Afro-textured_hair_](https://en.wikipedia.org/wiki/Afro-textured_hair "https://en.wikipedia.org/wiki/Afro-textured_hair")
-
-###### [_https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women_](https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women "https://www.teenvogue.com/story/the-black-hair-experience-exhibit-is-a-nostalgic-celebration-for-black-women")
-
-###### [_https://nl.pinterest.com/pin/610378555727411957/_](https://nl.pinterest.com/pin/610378555727411957/ "https://nl.pinterest.com/pin/610378555727411957/")
-
-###### [_https://nl.pinterest.com/pin/451063718934528811/_](https://nl.pinterest.com/pin/451063718934528811/ "https://nl.pinterest.com/pin/451063718934528811/")
-
-###### [_https://nl.pinterest.com/pin/7318418136309233/_](https://nl.pinterest.com/pin/7318418136309233/ "https://nl.pinterest.com/pin/7318418136309233/")
+###### 
