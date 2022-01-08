@@ -4,7 +4,11 @@ hero:
   maxWidthPX: "652"
 seo:
   image: "/images/akole-logo.svg"
-  description: ''
+  description: Akole houdt je op de hoogte van alles wat je moet weten over health,
+    hair- and skincare.  De aandacht ligt om jou van relevante informatie en tips
+    te voorzien voor het verzorgen van jouw natuurlijke uiterlijk.
 
 ---
-Hier komt algemen info over Akole en wat deze blog doet
+#### Akole houdt je op de hoogte van alles wat je moet weten over health, hair- and skincare. 
+
+#### De aandacht ligt om jou van relevante informatie en tips te voorzien voor het verzorgen van jouw natuurlijke uiterlijk.
