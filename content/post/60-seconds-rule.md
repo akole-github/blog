@@ -5,7 +5,6 @@ title: 60 seconds rule!
 excerpt: "“Are you really washing your face?”"
 date: 2022-01-01T23:00:00+00:00
 hero: "/images/skincare.png"
-draft: true
 
 ---
 # The 60 second rule!
