@@ -4,7 +4,7 @@ hero:
   maxWidthPX: "652"
 seo:
   image: "/images/akole-logo.svg"
-  description: ""
-  
+  description: ''
 
 ---
+Hier komt algemen info over Akole en wat deze blog doet
