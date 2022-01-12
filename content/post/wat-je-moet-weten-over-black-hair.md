@@ -16,9 +16,9 @@ hero-image: ''
 
 De vorm van de krul bij kroeshaar ontstaat door de haarzakjes die ellipsvormig groeien. Door deze vorm gedraagt het haar zich als een spiraal. De spiraalstructuur zorgt ervoor dat het krimpt (shrinkage). Gekruld haar komt in allerlei vormen en maten, deze hebben ook allemaal een eigen naam ofwel, een eigen code. Kroeshaar valt onder 4A, B of C.
 
-Even terug in de tijd… Afro-Amerikaans haar heeft veel opmerkelijke periodes doorgemaakt. De slavernij en slavenhandel speelde hier een grote rol in. Dit weegt de trots die Afro-Amerikanen in hun haar koesteren. 
+Even terug in de tijd… Afro-Amerikaans haar heeft veel opmerkelijke periodes doorgemaakt. De slavernij en slavenhandel speelde hier een grote rol in. Dit weegt de trots die Afro-Amerikanen in hun haar koesteren.
 
-> "_Alles wat ik wist over de Amerikaanse geschiedenis leerde ik door naar het haar van zwarte mensen te kijken. Het is de perfecte metafoor voor het Afrikaanse experiment hier in de VS_” – Jamaica Kincaid.
+> "Alles wat ik wist over de Amerikaanse geschiedenis leerde ik door naar het haar van zwarte mensen te kijken. Het is de perfecte metafoor voor het Afrikaanse experiment hier in de VS” – Jamaica Kincaid.
 
 In de Verenigde Staten inspireerden de successen van de burgerrechtenbeweging en de Black power bewegingen van de jaren ‘60 en ‘70 Afro-Amerikanen om hun politieke standaarden uit te drukken door meer traditioneel Afrikaanse stijlen aan te nemen. Het Afro-kapsel is ontwikkeld als een bevestiging van het zwarte Afrikaanse erfgoed, uitgedrukt door de uitdrukking ‘Black is Beautiful’. Angela Davis droeg haar Afro als een politiek statement en begon een beweging richting natuurlijk haar. Deze beweging beïnvloedde een generatie, waaronder beroemdheden als Diana Ross, Michael Jackson en Al Green.
 
@@ -30,7 +30,7 @@ Afro hair is dus de textuur van het haar van mensen uit de Afrikaanse diaspora. 
 
 Vlechten, een van de meest veelzijdige haarstijlen _ever._ Het vlechten van haar kan op wel honderd verschillende manieren. De trends van het moment zijn: knotless braids, box braids, feed-in braids, braided ponytail en crochet braids. Naast het feit dat je er veel kanten mee op kan kent het ook een grote geschiedenis. Deze symbolische haarstijl staat namelijk ook als een teken van sociale status, etniciteit, religie, leeftijd of welzijn. In verschillende Afrikaanse stammen was gevlochten haar een unieke manier om de groepen mee te identificeren.
 
-![](/images/rows.png)
+![](/images/pexels-ogo-1661841.jpg)
 
 Conrows (een traditionele stijl van vlechten waarbij het haar heel dicht bij de hoofdhuid wordt gevlochten) hebben in het bijzonder ook nog een historie binnen de zwarte gemeenschap. Slaven vlochten vroeger ontsnappingsroutes in hun haar. Dit was een manier om onderling met elkaar te communiceren zonder dat de slavenhandelaren hiervan op de hoogte waren. Super slim dus! Naast dat conrows er bijzonder uit zien heeft het ook een zeer praktische functie. Conrows dienen vaak als gemak bij het dragen van een pruik.
 
